@@ -1,0 +1,40 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+}
+.message__user {
+  margin-left: auto !important;
+  text-align: left !important;
+  color: #fff;
+}
+.message_userCard {
+  background-color: #0b81ff !important;
+}
+.message_guestCard {
+  background-color: #e9e9eb !important;
+}
+.app__form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: #e9e9eb !important;
+  width: 100%;
+  /* margin: 20px; */
+}
+.app__formControl {
+  /* display: flex !important;*/
+  flex-direction: row !important;
+}
+
+.app__image {
+  margin-top: 5px;
+}
+.made_with {
+  font-size: 5px;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 5px !important;
+  color: #f31616 !important;
+}
