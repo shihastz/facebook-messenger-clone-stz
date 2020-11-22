@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/facebook-messenger-clone-stz/static/css/main.114456f0.chunk.css",
+    "main.js": "/facebook-messenger-clone-stz/static/js/main.b99836c7.chunk.js",
+    "main.js.map": "/facebook-messenger-clone-stz/static/js/main.b99836c7.chunk.js.map",
+    "runtime-main.js": "/facebook-messenger-clone-stz/static/js/runtime-main.af83f34c.js",
+    "runtime-main.js.map": "/facebook-messenger-clone-stz/static/js/runtime-main.af83f34c.js.map",
+    "static/js/2.541392af.chunk.js": "/facebook-messenger-clone-stz/static/js/2.541392af.chunk.js",
+    "static/js/2.541392af.chunk.js.map": "/facebook-messenger-clone-stz/static/js/2.541392af.chunk.js.map",
+    "static/js/3.9e9c5e75.chunk.js": "/facebook-messenger-clone-stz/static/js/3.9e9c5e75.chunk.js",
+    "static/js/3.9e9c5e75.chunk.js.map": "/facebook-messenger-clone-stz/static/js/3.9e9c5e75.chunk.js.map",
+    "index.html": "/facebook-messenger-clone-stz/index.html",
+    "static/css/main.114456f0.chunk.css.map": "/facebook-messenger-clone-stz/static/css/main.114456f0.chunk.css.map",
+    "static/js/2.541392af.chunk.js.LICENSE.txt": "/facebook-messenger-clone-stz/static/js/2.541392af.chunk.js.LICENSE.txt",
+    "static/media/messenger.8536cd55.svg": "/facebook-messenger-clone-stz/static/media/messenger.8536cd55.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af83f34c.js",
+    "static/js/2.541392af.chunk.js",
+    "static/css/main.114456f0.chunk.css",
+    "static/js/main.b99836c7.chunk.js"
+  ]
+}
